@@ -8,5 +8,7 @@ class Dog
     @dogs_name_here
   end
 
-
 end
+
+fido = Dog.new
+dog_name = "Fido"
